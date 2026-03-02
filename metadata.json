@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Copy of AlQasimi Family Tree",
+  "description": "An interactive web application that visualizes the AlQasimi family tree from contact data using D3.js. It allows for dynamic data manipulation and exploration of the family connections.",
+  "requestFramePermissions": []
+}
